@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "description": "Salário Inicial",
+    "amount": 2500.00,
+    "type": "INCOME",
+    "category": "Trabalho",
+    "date": "2026-11-01"
+  }
+]
